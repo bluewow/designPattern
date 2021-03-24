@@ -1,5 +1,5 @@
 package strtegy;
-
+1
 public class MyProgram {
 	private SearchButton searchButton = new SearchButton(this);
 
