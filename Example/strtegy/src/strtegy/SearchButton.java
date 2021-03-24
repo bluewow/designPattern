@@ -9,6 +9,7 @@ public class SearchButton {
 
 	private SearchStrategy searchStrategy = new SearchStratagyAll();
 
+	
 	public void setSearchStrategy(SearchStrategy _searchStrategy) {
 		searchStrategy = _searchStrategy;
 	}
