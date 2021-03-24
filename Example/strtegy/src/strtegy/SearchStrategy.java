@@ -1,5 +1,5 @@
 package strtegy;
-
+1
 public interface SearchStrategy {
 	public void search();
 }
