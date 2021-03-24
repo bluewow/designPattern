@@ -1,5 +1,5 @@
 package strtegy;
-123
+1234
 public class SearchButton {
 	private MyProgram myProgram;
 
